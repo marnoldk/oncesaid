@@ -1,0 +1,152 @@
+
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+header {
+    background-color: rgb(206, 212, 183);
+}
+h1.view{
+    background-color: whitesmoke;
+    color: rgb(20, 28, 41);
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    background-image: ;
+}
+#allofus {
+    position: relative;
+    left: 15%;
+    padding: 10px 50px;
+    border: 5px none brown;
+    border-radius: 100px;
+ 
+}
+p.home:hover {
+    background-color: brown;
+}
+h2.run{
+    color: blue;
+    float: left;
+}
+section.marnoldk{
+    margin: 3% 10%;
+    padding: 10px 50px;
+    width: 80%;  
+}
+#first {
+    border-radius: 100px;
+    padding: 20px 50px;
+    border: 10px none brown;
+    float: left;
+}
+.username1 {
+   font-family: ;
+   color:rgb(149, 148, 209) ;
+   background-color:;
+}
+section.joel {
+    margin: 2% 10%;
+    padding: 10px 50px;
+    width: 80%;  
+}
+#second {
+    border-radius: 80px;
+    padding: 20px 50px;
+    border: 10px none brown;
+    float: right;
+    position: relative;
+    top:30px ;
+    right: 3%;
+}
+.username2 {
+    font-family: ;
+    color:rgb(58, 184, 58) ;
+    background-color: ;
+}
+section.Innocent{
+    margin: 2% 10%;
+    padding: 10px 50px;
+    width: 80%; 
+}
+#third{
+    border-radius: 100px;
+    padding: 20px 50px;
+    border: 10px none brown;
+    float: left;
+}
+.username3 {
+    font-family: ;
+    color: rgb(143, 84, 84);
+    background-color: ;
+}
+section.Kayesu{
+    margin: 2% 10%;
+    padding: 10px 50px;
+    width: 80%; 
+}
+#fourth{ border-radius: 80px;
+    padding: 20px 50px;
+    border: 10px none brown;
+    float: right;
+    position: relative;
+    top:20px ;
+    right: 3%;
+}
+.username4 {
+    font-family: ;
+    color: rgb(83, 79, 79);
+    background-color: ;
+}
+section.Bushirah{
+    margin:2% 10% 5% 10%;
+    padding: 10px 50px;
+    width: 80%; 
+}
+#fifth{
+     border-radius: 100px;
+     height: 50%;
+    padding: 20px 50px;
+    border: 10px none brown;
+    float: left;
+}
+.username5 {
+    font-family: ;
+    color:rgb(219, 15, 15) ;
+    background-color: ;
+}
+section.Diana{
+    margin: 2% 10%;
+    padding: 10px 50px;
+    width: 80%;
+ }
+#sixth {
+     border-radius: 80px;
+    padding: 20px 50px;
+    border: 10px none brown;
+    float: right;
+    position: relative;
+    top:20px ;
+    right: 3%;
+}
+.username6 {
+    font-family: ;
+    color: rgb(52, 52, 187);
+    background-color: ;
+}
+section.Bruno{ margin: 2% 10%;
+    padding: 10px 50px;
+    width: 80%; 
+    border: 50px;
+}
+    .username7 {
+        font-family: ;
+        color: rgb(8, 240, 240);
+        background-color: ;
+    }
+    #seventh{
+        border-radius: 100px;
+        padding: 20px 50px;
+        border: 10px none brown;
+        float: left;
+    }
